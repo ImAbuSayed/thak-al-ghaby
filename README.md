@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي في قلبي شوق ونار
+> عيني لا تنام في ليل ونهار
+> تعالي إلي بين أحضاني الآن
+> أنتِ عشقي وأنتِ أجمل مكان
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
