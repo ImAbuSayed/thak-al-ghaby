@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/thak-al-ghaby/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Thak Al Ghaby](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
