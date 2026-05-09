@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Thak Al Ghaby
+
+This log tracks the cryptographic history and versioning for the song **Thak Al Ghaby** (thak-al-ghaby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:44:10.883271 | `v1` | `074bffc38878a25c3176c94ba0724882080b1b5f79ad4cd8c0361fd7dbd43902` | `49c13ad3b79955272a3fd9dbab66c9cc2928736d56ce8e197738206e427c1028` | `2026-05-09_thak-al-ghaby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
